@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home {
+  min-height: 800px;
+  background: url(../public/img/cake.png) no-repeat center;
+  background-size: calc(800px - 1rem);
+  
+}
+
+.correo, .mensaje {
+  padding-top: 25px;
+}
